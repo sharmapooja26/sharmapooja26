@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmapooja26&label=Profile%20views&color=0e75b6&style=flat" alt="sharmapooja26" /> </p>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, ReactJS, Git, GitHub, SQL, DBMS**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Git, GitHub, SQL,**
 
 - 📫 How to reach me **psharmaaa2526@gmail.com**
 
