@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pooja Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmapooja26&label=Profile%20views&color=0e75b6&style=flat" alt="sharmapooja26" /> </p>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Git, GitHub, SQL,**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Git, GitHub, SQL, MongoDB, Nodejs, Expressjs, Tailwindcss, Java**
 
 - 📫 How to reach me **psharmaaa2526@gmail.com**
 
