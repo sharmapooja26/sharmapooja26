@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Git, GitHub, SQL, MongoDB, Nodejs, Expressjs, Tailwindcss, Java**
 
-- 📫 How to reach me **psharmaaa2526@gmail.com**
+- 📫 How to reach me **poojasharmaaa2526@gmail.com**
 
 - ⚡ Fun fact **when I'm not coding, you’ll find me smashing birdies on the court!**
 
