@@ -3,6 +3,15 @@
 <h1 align="center">Hi 👋, I'm Pooja Sharma</h1>
 <h3 align="center">A Full Stack Developer From India</h3>
 
+- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Git, GitHub, MongoDB, Node.js, Express.js, Tailwind CSS**
+- 📫 How to reach me **poojasharmaaa2526@gmail.com**
+- ⚡ Fun fact **When I'm not coding, you’ll find me smashing birdies on the badminton court🏸**
+
+<br clear="right"/>
+
+<h3 align="left">Connect with me:</h3>
+
+
 
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React.js, Git, GitHub, MongoDB, Node.js, Express.js, Tailwind CSS**
