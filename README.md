@@ -56,18 +56,18 @@
 
 <p>
   <img align="left" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=sharmapooja26&show_icons=true&locale=en&layout=compact" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmapooja26&layout=compact&theme=tokyonight" 
     alt="Top Languages" />
 </p>
 
 <p>
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=sharmapooja26&show_icons=true&locale=en" 
+  <img align="center" 
+    src="https://github-readme-stats.vercel.app/api?username=sharmapooja26&show_icons=true&theme=tokyonight" 
     alt="GitHub Stats" />
 </p>
 
 <p>
   <img align="center" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sharmapooja26" 
+    src="https://streak-stats.demolab.com/?user=sharmapooja26&theme=tokyonight" 
     alt="GitHub Streak" />
 </p>
