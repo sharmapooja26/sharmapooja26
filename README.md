@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pooja Sharma</h1>
 <h3 align="center">A Full Stack Developer From India</h3>
 <img align="right" width="400" src="https://github.com/sharmapooja26/sharmapooja26/blob/main/image.gif?raw=true">
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Git, GitHub, MongoDB, Node.js, Express.js, Tailwind CSS**
+- 💬 Ask me about <b>HTML, CSS, JavaScript, React.js, Git, GitHub, MongoDB, Node.js, Express.js, Tailwind CSS</b>
 
-- 📫 How to reach me **poojasharmaaa2526@gmail.com**
+- 📫 How to reach me <b>poojasharmaaa2526@gmail.com</b>
 
-- ⚡ Fun fact **When I'm not coding, you’ll find me smashing birdies on the badminton court🏸**
+- ⚡ Fun fact <b>When I'm not coding, you’ll find me smashing birdies on the badminton court 🏸</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
