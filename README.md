@@ -1,23 +1,19 @@
 <h1 align="center">Hi 👋, I'm Pooja Sharma</h1>
-<h3 align="center">A Full Stack Developer</h3>
+<h3 align="center">A full Stack Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sharmapooja26&label=Profile%20views&color=0e75b6&style=flat" alt="sharmapooja26" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmapooja26&label=Profile%20views&color=0e75b6&style=flat" alt="sharmapooja26" /> </p>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Git, GitHub, MongoDB, Node.js, Express.js, Tailwind CSS**
-- 📫 How to reach me: **poojasharmaaa2526@gmail.com**
-- ⚡ Fun fact: **When I'm not coding, you’ll find me smashing birdies on the court! 🏸**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Git, GitHub, MongoDB, Nodejs, Expressjs, Tailwindcss,**
+
+- 📫 How to reach me **poojasharmaaa2526@gmail.com**
+
+- ⚡ Fun fact **when I'm not coding, you’ll find me smashing birdies on the court!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/poojasharma26" target="_blank">
-    <img align="center" 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-      alt="LinkedIn" height="30" width="40" />
-  </a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/poojasharma26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/poojasharma26" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -53,21 +49,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a> 
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharmapooja26&show_icons=true&locale=en&layout=compact" alt="sharmapooja26" /></p>
 
-<p>
-  <img align="left" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmapooja26&layout=compact&theme=tokyonight" 
-    alt="Top Languages" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharmapooja26&show_icons=true&locale=en" alt="sharmapooja26" /></p>
 
-<p>
-  <img align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=sharmapooja26&show_icons=true&theme=tokyonight" 
-    alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" 
-    src="https://streak-stats.demolab.com/?user=sharmapooja26&theme=tokyonight" 
-    alt="GitHub Streak" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharmapooja26&" alt="sharmapooja26" /></p> fix and correct this
