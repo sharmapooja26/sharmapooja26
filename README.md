@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pooja Sharma</h1>
-<h3 align="center">A Full Stack Developer From India</h3>
+<h3 align="center">A Frontend Developer From India</h3>
 <img align="right" width="400" src="https://github.com/sharmapooja26/sharmapooja26/blob/main/image.gif?raw=true">
 - 💬 Ask me about <b>HTML, CSS, JavaScript, React.js, Git, GitHub, Tailwind CSS</b>
 
