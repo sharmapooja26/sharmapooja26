@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pooja Sharma</h1>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/18737ead-c581-4451-af83-004fb3eb6919" /><h1 align="center">Hi 👋, I'm Pooja Sharma</h1>
 <h3 align="center">Full Stack Developer (MERN Stack) from India</h3>
 
 <img align="right" width="400" src="https://github.com/sharmapooja26/sharmapooja26/blob/main/image.gif?raw=true">
@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, AWS**
 
-- 📫 How to reach me **poojasharmaaa2526@gmail.com**
+- 📫 How to reach me **poojaasharmaa9311@gmail.com**
 
-- ⚡ Fun fact **When I'm not coding, you’ll find me playing badminton 🏸**
+- ⚡ Fun fact **When I'm not coding, you’ll find me smashing birdies on the badminton court🏸**
 
 ---
 
@@ -23,7 +23,7 @@
 - ☁️ **Cloud-Based File Storage Application**  
   Developed a cloud file storage system using **AWS EC2, S3, and IAM** for secure file upload and storage.
 
-- ⚡ **Serverless Newsletter Subscription System**  
+- ⚡ **Newsletter Subscription System**  
   Built a serverless application using **AWS Lambda, API Gateway, SNS, and IAM** for managing newsletter subscriptions.
 
 ---
