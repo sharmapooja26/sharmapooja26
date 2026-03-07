@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/sharmapooja26/sharmapooja26/blob/main/Banner.png" width="100% height="50%" />
-</p>
 <h1 align="center">Hi 👋, I'm Pooja Sharma</h1>
 <h3 align="center">Full Stack Developer (MERN Stack) from India</h3>
 
