@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pooja Sharma</h1>
-<h3 align="center">Full Stack Developer (MERN Stack) from India</h3>
+<h3 align="center">Frontend Developer from India</h3>
 
 <img align="right" width="400" src="https://github.com/sharmapooja26/sharmapooja26/blob/main/image.gif?raw=true">
 
-- 🔭 I’m currently working on **Full Stack Web Applications**
-
 - 🌱 Exploring **modern web technologies and cloud-based applications**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, AWS**
+- 💬 Ask me about **HTML, CSS, JavaScript, React.js, TailwindCSS, AWS**
 
 - 📫 How to reach me **poojaasharmaa9311@gmail.com**
 
@@ -17,8 +15,8 @@
 
 <h3 align="left">Projects:</h3>
 
-- 🛒 **MERN Ecommerce Application**  
-  Built a fully responsive ecommerce web application with **product listing, category filtering, sorting, search functionality, and cart management**.
+- 🛒 **Ecommerce Web Application**  
+  Built a responsive e-commerce clothing website using React.js and Tailwind CSS Implemented **product listing, category filtering, sorting, search functionality, and cart management**.
 
 - ☁️ **Cloud-Based File Storage Application**  
   Developed a cloud file storage system using **AWS EC2, S3, and IAM** for secure file upload and storage.
@@ -66,17 +64,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
 </a>
 
-<a href="https://nodejs.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://expressjs.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-</a>
 
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
