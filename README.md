@@ -47,7 +47,7 @@
 
 ---
 
-## 📊 GitHub Stats (Glass Card Style)
+## 📊 GitHub Stats 
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sharmapooja26&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -60,7 +60,7 @@
 
 ---
 
-## 🌐 Connect With Me (Glass Buttons Style)
+## 🌐 Connect With Me 
 
 <p align="center">
   <a href="https://linkedin.com/in/poojasharma26">
@@ -78,7 +78,7 @@
 
 ---
 
-## ⚡ Profile Glow Footer
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer"/>
