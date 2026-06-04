@@ -20,7 +20,7 @@
 
 ---
 
-## 🚀 Tech Stack (Glass Style Clean Layout)
+## 🚀 Tech Stack 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,aws,git,github" />
