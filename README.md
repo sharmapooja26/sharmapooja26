@@ -77,9 +77,7 @@
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
 </a>
 
-<a href="https://Excel.com/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/.xlsx_icon.svg/960px-.xlsx_icon.svg.png?_=20191217173110" width="40" height="40"/>
-</a>
+
 
 </p>
 
