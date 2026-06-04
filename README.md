@@ -1,6 +1,7 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Pooja%20Sharma&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="<img width="1983" height="793" alt="ChatGPT Image Jun 4, 2026, 08_25_24 PM" src="https://github.com/user-attachments/assets/2a40de74-b380-4ff4-ae6c-578e0d8c00ab" />
+"/>
 </p>
 
 <h3 align="center">💻 Aspiring Data Analyst | Frontend Developer </h3>
