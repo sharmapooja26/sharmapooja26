@@ -1,4 +1,4 @@
- fixthis <h1 align="center">Hi 👋, I'm Pooja Sharma</h1>
+<h1 align="center">Hi 👋, I'm Pooja Sharma</h1>
 <h3 align="center">Frontend Developer from India</h3>
 
 <img align="right" width="400" src="https://github.com/sharmapooja26/sharmapooja26/blob/main/image.gif?raw=true">
