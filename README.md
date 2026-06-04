@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pooja Sharma</h1>
+<img width="960" height="960" alt="image" src="https://github.com/user-attachments/assets/0a5877dc-53e5-4758-807c-d718c1c70638" /><h1 align="center">Hi 👋, I'm Pooja Sharma</h1>
 <h3 align="center">Aspiring Data Analyst | Frontend Developer</h3>
 
 <img align="right" width="400" src="https://github.com/sharmapooja26/sharmapooja26/blob/main/image.gif?raw=true">
@@ -75,6 +75,10 @@
 
 <a href="https://tailwindcss.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+</a>
+
+<a href="https://Excel.com/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/.xlsx_icon.svg/960px-.xlsx_icon.svg.png?_=20191217173110" width="40" height="40"/>
 </a>
 
 </p>
