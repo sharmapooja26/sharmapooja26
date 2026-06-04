@@ -9,7 +9,7 @@
 
 <p align="center">
 
-🌱 Currently exploring **Data Analytics, React.js & Cloud (AWS)**  
+🌱 Currently exploring **Data Analytics**  
 🛠️ Building real-world projects in **Web Development + Cloud Systems**  
 📊 Passionate about turning data into meaningful insights  
 🏸 Fun fact: I play badminton when I’m not coding  
