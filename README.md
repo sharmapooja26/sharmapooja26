@@ -1,7 +1,7 @@
 <!-- HEADER BANNER -->
 
 
-<h3 align="center">💻 Aspiring Data Analyst | Frontend Developer </h3>
+<h3 align="center">💻 Data Analyst | Frontend Developer </h3>
 
 ---
 
