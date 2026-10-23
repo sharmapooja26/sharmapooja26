@@ -12,12 +12,16 @@
 
 ## 👩‍💻 About Me
 
-- 🌱 Currently exploring **Data Analytics and Business Intelligence**
-- 📊 Interested in transforming raw data into meaningful insights
-- 📈 Learning how to analyze trends, patterns, and business performance
-- 🧹 Interested in data cleaning, exploratory data analysis, and visualization
-- 🎯 Working towards building a strong portfolio of practical data analytics projects
-- 💡 Passionate about using data to support better business decisions
+
+📊 I'm a Data Analyst passionate about transforming raw data into meaningful insights and supporting data-driven decision-making.
+
+- 📈 Skilled in **Excel, SQL, Power BI, and Python**
+- 🐍 Experienced in data analysis and visualization using **Pandas, NumPy, Matplotlib, and Seaborn**
+- 🧹 Proficient in data cleaning, data manipulation, and exploratory data analysis (EDA)
+- 📊 Focused on building interactive dashboards, identifying trends, and analyzing business performance
+- 💡 Passionate about uncovering patterns in data and translating findings into actionable business insights
+
+
 
 ---
 
