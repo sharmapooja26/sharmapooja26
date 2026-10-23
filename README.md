@@ -2,13 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm Pooja Sharma</h1>
 
-<h3 align="center">📊 Data Analyst | SQL • Python • Power BI • Excel</h3>
-
-<p align="center">Turning Data into Actionable Insights</p>
+<h3 align="center">📊 Data Analyst | Turning Data into Insights</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Learning+SQL+%7C+Excel+%7C+Power+BI;Exploring+Python+for+Data+Analysis;Turning+Data+into+Meaningful+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Analyst;Learning+SQL+%7C+Excel+%7C+Power+BI;Exploring+Python+for+Data+Analysis;Turning+Data+into+Meaningful+Insights" alt="Typing SVG" />
 </p>
+
 
 ---
 
