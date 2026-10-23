@@ -1,70 +1,99 @@
-<!-- HEADER BANNER -->
+<!-- HEADER -->
 
+<h1 align="center">Hi 👋, I'm Pooja Sharma</h1>
 
-<h3 align="center">💻 Data Analyst | Frontend Developer </h3>
+<h3 align="center">📊 Aspiring Data Analyst | Turning Data into Insights</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Learning+SQL+%7C+Excel+%7C+Power+BI;Exploring+Python+for+Data+Analysis;Turning+Data+into+Meaningful+Insights" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-<p align="center">
+- 🌱 Currently exploring **Data Analytics and Business Intelligence**
+- 📊 Interested in transforming raw data into meaningful insights
+- 📈 Learning how to analyze trends, patterns, and business performance
+- 🧹 Interested in data cleaning, exploratory data analysis, and visualization
+- 🎯 Working towards building a strong portfolio of practical data analytics projects
+- 💡 Passionate about using data to support better business decisions
 
-🌱 Currently exploring **Data Analytics**  
-🛠️ Building real-world projects in **Web Development + Cloud Systems**  
-📊 Passionate about turning data into meaningful insights  
- 
+---
 
+## 🛠️ Data Analytics Tech Stack
+
+### 📑 Microsoft Excel
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
----
+- Data Cleaning and Formatting
+- PivotTables and PivotCharts
+- Lookup Functions
+- Charts and Reports
+- Data Analysis
 
-## 🚀 Tech Stack 
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,aws,git,github" />
+### 🗄️ SQL
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
----
+- Data Filtering and Sorting
+- Aggregate Functions
+- GROUP BY and HAVING
+- JOINs and Subqueries
+- Common Table Expressions (CTEs)
+- Window Functions
 
-## 💼 Featured Projects
+### 📊 Power BI
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
 
-### 🛒 E-commerce Web App
-- Built with **React.js + Tailwind CSS**
-- Features: product listing, filtering, sorting, cart system
-- Focus: UI/UX + performance optimization
+- Interactive Dashboards
+- Power Query and Data Transformation
+- Data Modeling
+- DAX Measures
+- KPI Reporting and Visualization
 
-### ☁️ Cloud File Storage System
-- AWS-based system using **EC2 + S3 + IAM**
-- Secure upload and storage architecture
-- Focus: cloud security + scalability
+### 🐍 Python for Data Analysis
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
 
-### ⚡ Serverless Newsletter System
-- Built using **AWS Lambda + API Gateway + SNS**
-- Fully serverless architecture
-- Focus: automation + scalability
-
----
-
+- Data Cleaning and Manipulation
+- Exploratory Data Analysis (EDA)
+- Data Analysis with Pandas and NumPy
+- Data Visualization
+- Identifying Trends and Patterns
 
 
-## 🌐 Connect With Me 
+
+
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/poojasharma26">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <a href="mailto:poojaasharmaa9311@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:poojasharmaa9311@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-
-  <a href="https://www.leetcode.com/poojasharmaa">
-    <img src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <a href="https://github.com/sharmapooja26">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/PoojaSharmaa/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
 
 ---
 
-
-
-
+<p align="center">
+  <i>"Turning data into insights, and insights into better decisions."</i>
+</p>
