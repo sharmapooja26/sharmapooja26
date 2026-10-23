@@ -2,13 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm Pooja Sharma</h1>
 
-<h3 align="center">📊 Data Analyst | Turning Data into Insights</h3>
+<h2 align="center">📊 Data Analyst | SQL • Python • Power BI • Excel</h2>
+
+<h3 align="center">Transforming Raw Data into Actionable Business Insights</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Analyst;Learning+SQL+%7C+Excel+%7C+Power+BI;Exploring+Python+for+Data+Analysis;Turning+Data+into+Meaningful+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Data+Analysis+%7C+Business+Intelligence;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Pandas+%7C+NumPy+%7C+Matplotlib+%7C+Seaborn;Data+Cleaning+%7C+EDA+%7C+Visualization;Turning+Data+into+Meaningful+Insights" alt="Data Analytics Skills" />
 </p>
-
-
 ---
 
 ## 👩‍💻 About Me
