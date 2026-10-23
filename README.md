@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Data+Analysis+%7C+Business+Intelligence;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Pandas+%7C+NumPy+%7C+Matplotlib+%7C+Seaborn;Data+Cleaning+%7C+EDA+%7C+Visualization;Turning+Data+into+Meaningful+Insights" alt="Data Analytics Skills" />
 </p>
----
+
 
 ## 👩‍💻 About Me
 
